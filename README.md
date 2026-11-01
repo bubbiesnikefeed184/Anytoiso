@@ -209,4 +209,4 @@ AnyToISO is available as a full free version with all features and updates inclu
 Ready to convert your disc images effortlessly? Download AnyToISO today and experience the simplicity and efficiency of this powerful tool!
 
 ---
-**Last updated:** 2026-10-31 22:59:06 UTC
+**Last updated:** 2026-11-01 02:00:47 UTC
